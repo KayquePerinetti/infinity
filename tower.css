@@ -1,0 +1,20 @@
+*{
+    text-align: center;
+}
+body{
+    background-color: rgb(167, 168, 119);
+}
+.logo{
+    height: 300px;
+}
+.rodape{
+    color: white;
+    font-family: monospace;
+}
+.infinity{
+    height: 55px;
+}
+.referencia{
+    position: relative;
+    height: 50px;
+}

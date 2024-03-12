@@ -1,0 +1,13 @@
+body{
+    background-color: beige;
+    text-align: center;
+}
+.logo{
+    position: relative;
+    width: 300px;
+    margin-top: 50px;
+}
+.referencia{
+    position: relative;
+    height: 45px;
+}

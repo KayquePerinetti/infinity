@@ -1,0 +1,32 @@
+*{
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: black;
+}
+.nome{
+    position: absolute;
+    height: 50px;
+    margin-left: -55%;
+    margin-top: 0%;
+}
+.slogan{
+    position: absolute;
+    height: 50px;
+    margin-left: -55%;
+    margin-top: 7%;
+}
+.logo{
+    position: relative;
+    height: 200px;
+    margin-top: 5%;
+    margin-left: 0%;
+}
+.referencia{
+    position: relative;
+    height: 50px;
+}
+.rodape{
+    font-family: monospace;
+}
